@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1647513990771,
+  "index": "https://muthusamy.github.io/resume/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://muthusamy.github.io/resume/favicon.ico",
+        "https://muthusamy.github.io/resume/index.html",
+        "https://muthusamy.github.io/resume/main.69abe6047369e75d.js",
+        "https://muthusamy.github.io/resume/manifest.webmanifest",
+        "https://muthusamy.github.io/resume/polyfills.e005c2c62a4e954c.js",
+        "https://muthusamy.github.io/resume/runtime.9ad9de6d17a8be66.js",
+        "https://muthusamy.github.io/resume/styles.c6c95f4c5b167ec0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://muthusamy.github.io/resume/assets/10th marksheet.jpg",
+        "https://muthusamy.github.io/resume/assets/12th marksheet.jpg",
+        "https://muthusamy.github.io/resume/assets/Actcet.jpeg",
+        "https://muthusamy.github.io/resume/assets/AnnaUniversity.png",
+        "https://muthusamy.github.io/resume/assets/BE-mechanical.png",
+        "https://muthusamy.github.io/resume/assets/Degree Certificate.jpg",
+        "https://muthusamy.github.io/resume/assets/Graduate.png",
+        "https://muthusamy.github.io/resume/assets/Next.png",
+        "https://muthusamy.github.io/resume/assets/Nissan Experience Letter .jpg",
+        "https://muthusamy.github.io/resume/assets/Provisional Certificate.jpg",
+        "https://muthusamy.github.io/resume/assets/RPHSS.jpeg",
+        "https://muthusamy.github.io/resume/assets/SCHOOL1.png",
+        "https://muthusamy.github.io/resume/assets/TamilNaduLogo.png",
+        "https://muthusamy.github.io/resume/assets/address.png",
+        "https://muthusamy.github.io/resume/assets/bajaj exp.jpg",
+        "https://muthusamy.github.io/resume/assets/bajaj.png",
+        "https://muthusamy.github.io/resume/assets/contact-book.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-128x128.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-144x144.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-152x152.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-192x192.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-384x384.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-512x512.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-72x72.png",
+        "https://muthusamy.github.io/resume/assets/icons/icon-96x96.png",
+        "https://muthusamy.github.io/resume/assets/interview.jpeg",
+        "https://muthusamy.github.io/resume/assets/interview1.jpg",
+        "https://muthusamy.github.io/resume/assets/job-offer.png",
+        "https://muthusamy.github.io/resume/assets/mail.png",
+        "https://muthusamy.github.io/resume/assets/man.png",
+        "https://muthusamy.github.io/resume/assets/mechanical.png",
+        "https://muthusamy.github.io/resume/assets/my picture.jpg",
+        "https://muthusamy.github.io/resume/assets/previous.png",
+        "https://muthusamy.github.io/resume/assets/renault.png",
+        "https://muthusamy.github.io/resume/assets/resume.png",
+        "https://muthusamy.github.io/resume/assets/school.png",
+        "https://muthusamy.github.io/resume/assets/score.png",
+        "https://muthusamy.github.io/resume/interview1.02d281a195c676a4.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://muthusamy.github.io/resume/assets/10th marksheet.jpg": "c24a41c1103e4662f52f7452ca9f5154ee80c0e0",
+    "https://muthusamy.github.io/resume/assets/12th marksheet.jpg": "1a8d946750030391c62337c104746446c7fd764a",
+    "https://muthusamy.github.io/resume/assets/Actcet.jpeg": "f4222aa7d71950c406324d3fa2cca8d9ab8b271a",
+    "https://muthusamy.github.io/resume/assets/AnnaUniversity.png": "ea1a6501bdf3c74d642c4bcbbb14539bd0cd63db",
+    "https://muthusamy.github.io/resume/assets/BE-mechanical.png": "09c6ed9ffef10a4464bd33cf4ceaf1144b526cb3",
+    "https://muthusamy.github.io/resume/assets/Degree Certificate.jpg": "c53e9f66cad6feea54107089180e53648042e020",
+    "https://muthusamy.github.io/resume/assets/Graduate.png": "95510f5c58f172ce802d762d29ea0c41912390dd",
+    "https://muthusamy.github.io/resume/assets/Next.png": "be5cb965ff55e6c7ca5341b629fa2f8813c06f4e",
+    "https://muthusamy.github.io/resume/assets/Nissan Experience Letter .jpg": "5327943a5d749e4197af2773b7467c5a70d94f72",
+    "https://muthusamy.github.io/resume/assets/Provisional Certificate.jpg": "093470672042c2526a37b5c34d11da55edb4ea83",
+    "https://muthusamy.github.io/resume/assets/RPHSS.jpeg": "90df8caf92f7e030895b3bc682654eb7351c18c3",
+    "https://muthusamy.github.io/resume/assets/SCHOOL1.png": "abb9c4d8a36d1fa7c7af789cdb6e2e24e813b385",
+    "https://muthusamy.github.io/resume/assets/TamilNaduLogo.png": "e03eee2682fde6907f3475fbe30114b49618521e",
+    "https://muthusamy.github.io/resume/assets/address.png": "6e5a61e7b05bbc86e99b032066c76fc387fd237b",
+    "https://muthusamy.github.io/resume/assets/bajaj exp.jpg": "b726dd55f4c6e93db46d094be7c1ccb21e70ce88",
+    "https://muthusamy.github.io/resume/assets/bajaj.png": "2ca9ca692bc8ceb920b4bfeee812e3f254d46553",
+    "https://muthusamy.github.io/resume/assets/contact-book.png": "f211cfda2562a227a7a59785fb59cd79b774d9b6",
+    "https://muthusamy.github.io/resume/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://muthusamy.github.io/resume/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://muthusamy.github.io/resume/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://muthusamy.github.io/resume/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://muthusamy.github.io/resume/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://muthusamy.github.io/resume/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://muthusamy.github.io/resume/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://muthusamy.github.io/resume/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://muthusamy.github.io/resume/assets/interview.jpeg": "d42ad9930811b77d963eb5e6090b595773c80036",
+    "https://muthusamy.github.io/resume/assets/interview1.jpg": "1854754f209444e499ec841a31d1c0643eb11039",
+    "https://muthusamy.github.io/resume/assets/job-offer.png": "f433f53a7590a44c4e44638fe0fc22fe6bfadc90",
+    "https://muthusamy.github.io/resume/assets/mail.png": "d8efa90846eea2b82fef5b6b6cc5119d4faa0bb8",
+    "https://muthusamy.github.io/resume/assets/man.png": "019dd1937d8f34dcb39dd2e995ec178092718c9a",
+    "https://muthusamy.github.io/resume/assets/mechanical.png": "97adc133eb436870734c40647ad2c3df8b58789d",
+    "https://muthusamy.github.io/resume/assets/my picture.jpg": "3ce6e1c7de229a26c18c76603b682a70e503f673",
+    "https://muthusamy.github.io/resume/assets/previous.png": "f06ceef208c64f4bb4b7e6c28644fba838c3f911",
+    "https://muthusamy.github.io/resume/assets/renault.png": "f7f1eceb2501085fa6884a0502ba1de12708ea18",
+    "https://muthusamy.github.io/resume/assets/resume.png": "c231beba300b4147a67c9ec8a1bc7eb3ddd90771",
+    "https://muthusamy.github.io/resume/assets/school.png": "d5ab7b8dc5671189e3ac36c86a8615257f88c191",
+    "https://muthusamy.github.io/resume/assets/score.png": "934f0cc00b4830e8fdc02ec56c3f4a8a4d86501e",
+    "https://muthusamy.github.io/resume/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://muthusamy.github.io/resume/index.html": "a37e71633d9884d1648f83c360be779887799e63",
+    "https://muthusamy.github.io/resume/interview1.02d281a195c676a4.jpg": "1854754f209444e499ec841a31d1c0643eb11039",
+    "https://muthusamy.github.io/resume/main.69abe6047369e75d.js": "3aee1fcdd12c32ac6c864d3ba0d10758f12171f0",
+    "https://muthusamy.github.io/resume/manifest.webmanifest": "e24c745722486bab2e9d86d7555b54bcb5b85146",
+    "https://muthusamy.github.io/resume/polyfills.e005c2c62a4e954c.js": "80348403e9f697167862862bd052c77ad1b0068a",
+    "https://muthusamy.github.io/resume/runtime.9ad9de6d17a8be66.js": "3f846a90e94f280d97f009d8656ba526df428228",
+    "https://muthusamy.github.io/resume/styles.c6c95f4c5b167ec0.css": "a84556c89173e404c397124872d01df822e0b8de"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
