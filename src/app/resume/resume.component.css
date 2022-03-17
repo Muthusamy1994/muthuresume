@@ -1,0 +1,87 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: rgba(230, 211, 211, 0.507);
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1200px;
+  margin: 0;
+}
+.container{
+  background-color: aliceblue;
+  border-radius: 4px;
+  box-shadow: 10px 20px 25px rgb(0,0,0, .5);
+  overflow: hidden;
+  max-width: 100%;
+  width: 900px;
+  height: 1100px;
+}
+.personal{
+  float: left;
+  width: 300px;
+  background-color: rgb(31, 26, 26);
+  color: white;
+  padding: 30px;
+  margin-left: 40px;
+  height: 10000px;
+}
+.photo img{
+  margin: 10px;
+  width: 200px;
+  height: 180px;
+  border: 0px solid;
+  box-shadow: 5px 0px 5px 0px  rgb(109, 106, 106);
+  border-radius: 50px;
+
+}
+.personal li{
+  color: white;
+  font-family: monospace;
+}
+.personal h2{
+  color: white;
+  font-family: 'Courier New';
+  text-decoration: underline;
+}
+.professional{
+  width: 560;
+  margin-top: 150px;
+}
+#name{
+  width: 160px;
+  color: white;
+  font-family: 'Courier New';
+  margin-left: 340px;
+  border: 0px solid;
+  padding: 5px;
+  background-color: rgb(31, 26, 26);
+}
+#info-1{
+  margin-left: 400px;
+  font-family: monospace;
+  font-size: large;
+}
+#info-1 img{
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+.lastbutton{
+  float: right;
+  width: 150px;
+  height: 60px;
+  padding-right: 30px;
+  border: none;
+  background-color: aliceblue;
+}
+#nextbutton{
+  cursor: pointer;
+  width: 80px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,100 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: rgba(230, 211, 211, 0.507);
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1200px;
+  margin: 0;
+}
+.container{
+  background-color: aliceblue;
+  border-radius: 4px;
+  box-shadow: 10px 20px 25px rgb(0,0,0, .5);
+  overflow: hidden;
+  max-width: 100%;
+  width: 900px;
+  height: 1100px;
+}
+.personal{
+  float: left;
+  width: 300px;
+  background-color: rgb(31, 26, 26);
+  padding: 30px;
+  margin-left: 40px;
+  height: 10000px;
+}
+.personal li{
+  color: white;
+  font-family: monospace;
+}
+.personal-details{
+  display: inline-block;
+}
+#details span{
+  display: block;
+  color: white;
+  font-family: monospace;
+}
+.personal h2{
+  font-family: 'Courier New';
+  color: white;
+  text-decoration: underline;
+}
+#details1 span{
+  display: block;
+  color: white;
+  font-family: monospace;
+  margin-left: 120px;
+}
+.declration p{
+  color: white;
+  font-family: monospace;
+
+}
+.professional{
+  width: 560;
+  margin-top: 50px;
+}
+#info-1{
+  margin-left: 400px;
+  font-family: monospace;
+  font-size: large;
+}
+#name{
+  width: 160px;
+  color: white;
+  font-family: 'Courier New';
+  margin-left: 340px;
+  border: 0px solid;
+  padding: 5px;
+  background-color: rgb(31, 26, 26);
+}
+#info-1 img{
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+.footer{
+padding: 20px;
+margin-left: 360px;
+}
+.lastbutton{
+  float: right;
+  width: 150px;
+  height: 60px;
+  padding-right: 30px;
+  border: none;
+  background-color: aliceblue;
+}
+#previousbutton{
+  cursor: pointer;
+  width: 80px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
